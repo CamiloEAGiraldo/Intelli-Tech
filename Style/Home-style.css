@@ -1,0 +1,17 @@
+body{
+    background-color: #233284;
+}
+
+header img{
+    width: 100%;
+}
+
+nav a{
+    background-color: rgb(46, 70, 179);
+    text-decoration: none;
+    color: #ffffff;
+}
+
+nav a:hover{
+    background-color: rgb(108, 112, 134);
+}

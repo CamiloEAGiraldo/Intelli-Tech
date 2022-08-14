@@ -1,0 +1,40 @@
+*{
+    background-color: #dbdbff;
+    text-align: center;
+    color: #1e96ff;
+}
+* body{
+    margin-top: 20%;
+}
+* a{
+    text-decoration: none;
+}
+* input{
+    background-color: #cfd9f5;
+    padding: 1%;
+}
+* button{
+    padding: 1%;
+}
+* button:hover{
+    background-color: #15f115;
+}
+* footer{
+    margin-top: 20%;
+}
+* img{
+    width: 50%;
+}
+#Pre-stock{
+    margin-top: 30%;
+}
+#Stock{
+    margin-top: 20%;
+}
+#Stock h1{
+    color: #1e96ff;
+    margin-bottom: 10%;
+}
+#Stock a:hover{
+    background-color: #a8c1fa;
+}
